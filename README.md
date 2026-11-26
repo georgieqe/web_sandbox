@@ -3,4 +3,5 @@ Página web de prueba para aprender Git.
 Autor: Alguien
 
 ## Primera vez usando commits por consola
-Estado: de momento bien.
+André no para de liarme con los commits :(,
+Estado: histérica.
